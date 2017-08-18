@@ -1,0 +1,13 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+school_list/__init__.py
+school_list/items.py
+school_list/middlewares.py
+school_list/pipelines.py
+school_list/settings.py
+school_list/spiders/__init__.py
+school_list/spiders/school.py
